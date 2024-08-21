@@ -1,0 +1,352 @@
+[
+  {
+    'id': '10252469',
+    'trusted': True,
+    'accredited_it_employer': False,
+    'name': '10:15',
+    'type': 'company',
+    'description': None,
+    'site_url': '',
+    'alternate_url': 'https://hh.ru/employer/10252469',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10252469',
+    'logo_urls': {
+      '90': 'https://img.hhcdn.ru/employer-logo/6879390.png',
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1314784.png',
+      '240': 'https://img.hhcdn.ru/employer-logo/6879391.png'
+    },
+    'relations': [],
+    'area': {
+      'id': '77',
+      'name': 'Рязань',
+      'url': 'https://api.hh.ru/areas/77'
+    },
+    'industries': [],
+    'branded_description': None,
+    'branding': None,
+    'insider_interviews': [],
+    'open_vacancies': 1
+  },
+  {
+    'id': '438441',
+    'trusted': True,
+    'accredited_it_employer': False,
+    'name': '1019',
+    'type': 'company',
+    'description': '<p>Группа компаний &quot;Телос Архив&quot; существует на рынке России с 1997 года.<br />Филиалы по всей России. Наш сайт\xa0https://telos-archive.ru/</p> <p>Мы оказываем услуги по организации работы с архивными документами:</p> <p>- Внеофисное хранение документов<br />- Создание электронных архивов<br />- Организация документооборота<br />- Консалтинг в сфере ДОУ и архивного дела<br />- Конфиденциальное уничтожение документов<br />- Образовательные программы</p> <p>Клиентами\xa0 компании являются крупнейшие в России Государственные \xa0корпорации, кредитные и страховые организации, федеральные органы исполнительной власти РФ.</p> <p>Группа компаний &quot;Телос Архив&quot; входит в крупнейшие мировые профессиональные ассоциации.</p>',
+    'site_url': 'http://telos-archive.ru',
+    'alternate_url': 'https://hh.ru/employer/438441',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=438441',
+    'logo_urls': {
+      '90': 'https://img.hhcdn.ru/employer-logo/3376728.jpeg',
+      'original': 'https://img.hhcdn.ru/employer-logo-original/733913.jpg',
+      '240': 'https://img.hhcdn.ru/employer-logo/3376729.jpeg'
+    },
+    'relations': [],
+    'area': {
+      'id': '1',
+      'name': 'Москва',
+      'url': 'https://api.hh.ru/areas/1'
+    },
+    'industries': [
+      {
+        'id': '52.651',
+        'name': 'Архив, библиотека, искусствоведение'
+      }
+    ],
+    'branded_description': None,
+    'branding': None,
+    'insider_interviews': [],
+    'open_vacancies': 3
+  },
+  {
+    'id': '5530913',
+    'trusted': True,
+    'accredited_it_employer': False,
+    'name': '101GROUP',
+    'type': 'company',
+    'description': None,
+    'site_url': '',
+    'alternate_url': 'https://hh.ru/employer/5530913',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5530913',
+    'logo_urls': None,
+    'relations': [],
+    'area': {
+      'id': '1',
+      'name': 'Москва',
+      'url': 'https://api.hh.ru/areas/1'
+    },
+    'industries': [],
+    'branded_description': None,
+    'branding': None,
+    'insider_interviews': [],
+    'open_vacancies': 1
+  },
+  {
+    'id': '4536063',
+    'trusted': True,
+    'accredited_it_employer': True,
+    'name': '101Hotels.com',
+    'type': 'company',
+    'description': '<p><strong>101Hotels.com</strong> – Лидер\xa0среди сервисов по онлайн-бронированию отелей на территории России.</p> <p><strong>Мы предлагаем:</strong></p> <p>\xa0•Сильнейший бренд работодателя;</p> <p>• Увлекательные, креативные и разноплановые задачи;</p> <p>• Возможность принимать активное участие в интересных и масштабных проектах;</p> <p>• Это то место, где ты можешь стать тем, кем захочешь. Мы ценим инициативность и ориентированность на результат, уважаем самостоятельный и нестандартный подход, прислушиваемся друг другу и развиваемся вместе;<br /><br />• Мы дружное активное комьюнити, ценим командную работу и вклад каждого в развитие нашей компании оцениваем по достоинству;</p> <p>• Мы ориентированы на комфорт наших сотрудников, поэтому предлагаем работу в современном офисе, с собственной вкусной столовой, игровой комнатой и зоной отдыха.</p> <p><strong>А также у нас:</strong><br />• Официальное трудоустройство и белая заработная плата;<br />• График работы сменный 5/2;<br />• Корпоративный ДМС, скидки на отели;<br />• Предоставляем все необходимые условия для развития, обучения и роста;<br />• Обеспечиваем изучение английского языка за счёт компании.</p> <p><strong>Давайте расти вместе с нами и строить историю нашего успешного будущего! Работая у нас, Вы становитесь важной и ценой частью дружной команды, которая поможет Вам профессионально вырасти, а также подарит новый и интересный опыт.</strong></p>',
+    'site_url': 'http://101Hotels.com',
+    'alternate_url': 'https://hh.ru/employer/4536063',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4536063',
+    'logo_urls': {
+      '90': 'https://img.hhcdn.ru/employer-logo/3632579.jpeg',
+      '240': 'https://img.hhcdn.ru/employer-logo/3632580.jpeg',
+      'original': 'https://img.hhcdn.ru/employer-logo-original/797923.jpeg'
+    },
+    'relations': [],
+    'area': {
+      'id': '1',
+      'name': 'Москва',
+      'url': 'https://api.hh.ru/areas/1'
+    },
+    'industries': [
+      {
+        'id': '44.392',
+        'name': 'Колл-центры, диспетчерские службы'
+      },
+      {
+        'id': '44.396',
+        'name': 'Услуги по организации поездок и бронированию'
+      },
+      {
+        'id': '7.541',
+        'name': 'Интернет-компания (поисковики, платежные системы, соц.сети, информационно-познавательные и развлекательные ресурсы, продвижение сайтов и прочее)'
+      },
+      {
+        'id': '49.412',
+        'name': 'Туристические компании'
+      },
+      {
+        'id': '11.459',
+        'name': 'Маркетинговые, рекламные, BTL, дизайнерские, Event-, PR-агентства, организация выставок'
+      }
+    ],
+    'branded_description': None,
+    'branding': None,
+    'insider_interviews': [],
+    'open_vacancies': 22
+  },
+  {
+    'id': '2307097',
+    'trusted': True,
+    'accredited_it_employer': False,
+    'name': '101 Solution',
+    'type': 'company',
+    'description': '<p>Рекламное агентство.\xa0\xa0\xa0</p> <p>\xa0 Рекламное агентство 101 Solution\xa0 молодая и динамично развивающаяся компания основанная в 2015 году. За время своей работы мы хорошо зарекомендовали себя на рынке по качеству производимого продукта, хорошему сервису и выполнению поставленных задач в сроки. Так же мы работаем напрямую с автопарками и имеем собственную рекламно-производственную базу что позволяет нам держать конкурентоспособные цены.<br />\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0</p>',
+    'site_url': 'http://vyveska.kz',
+    'alternate_url': 'https://hh.ru/employer/2307097',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2307097',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1029654.jpeg',
+      '240': 'https://img.hhcdn.ru/employer-logo/5739377.jpeg',
+      '90': 'https://img.hhcdn.ru/employer-logo/5739376.jpeg'
+    },
+    'relations': [],
+    'area': {
+      'id': '160',
+      'name': 'Алматы',
+      'url': 'https://api.hh.ru/areas/160'
+    },
+    'industries': [
+      {
+        'id': '11.685',
+        'name': 'Производство и продажа рекламно-сувенирной продукции'
+      },
+      {
+        'id': '11.460',
+        'name': 'Производство печатной, полиграфической продукции'
+      },
+      {
+        'id': '11.459',
+        'name': 'Маркетинговые, рекламные, BTL, дизайнерские, Event-, PR-агентства, организация выставок'
+      }
+    ],
+    'branded_description': None,
+    'branding': None,
+    'insider_interviews': [],
+    'open_vacancies': 1
+  },
+  {
+    'id': '1437541',
+    'trusted': True,
+    'accredited_it_employer': False,
+    'name': '101wow.ru',
+    'type': 'company',
+    'description': '<p>Это розничный интернет-магазин детских игрушек, который работает на территории РФ и СНГ.<br /><br />- - - - -\xa0<br />ЦЕННЫЙ КОНЕЧНЫЙ ПРОДУКТ НАШЕЙ КОМПАНИИ:<br />Интересные детские игрушки высокого качества, проданные профессионально и вызывающие желание совершить покупку повторно.<br />--------<br />Работаем 4 года.</p> <p>Раннее была сеть из 19 торговых магазинов.</p> <p>Сейчас поменяли стратегию и развиваем интернет-магазин.<br />Располагаемся в Санкт-Петербурге.<br />Успешно доставляем товары нашим клиентам по всей России.</p>',
+    'site_url': 'https://101wow.ru/',
+    'alternate_url': 'https://hh.ru/employer/1437541',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1437541',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/597042.png',
+      '90': 'https://img.hhcdn.ru/employer-logo/2829423.png',
+      '240': 'https://img.hhcdn.ru/employer-logo/2829424.png'
+    },
+    'relations': [],
+    'area': {
+      'id': '107',
+      'name': 'Чебоксары',
+      'url': 'https://api.hh.ru/areas/107'
+    },
+    'industries': [
+      {
+        'id': '41.525',
+        'name': 'Интернет-магазин'
+      },
+      {
+        'id': '41.511',
+        'name': 'Розничная сеть (книги, игрушки, подарки, часы и прочее)'
+      }
+    ],
+    'branded_description': None,
+    'branding': None,
+    'insider_interviews': [],
+    'open_vacancies': 1
+  },
+  {
+    'id': '626544',
+    'trusted': True,
+    'accredited_it_employer': False,
+    'name': '101XP',
+    'type': 'company',
+    'description': '<p>101XP сегодня — это дружная команда высококлассных специалистов, любящих игры и игровую индустрию.</p> <p>Среди нас есть ветераны с многолетним опытом работы в индустрии, а также молодые, но очень талантливые новички. Наша команда постоянно развивается, учится и растет.</p> <p>В нашей компании мы создаем подходящие всем условия для продуктивной работы над разнообразными интересными задачами и достижения наилучших результатов. Мы учитываем реалии сегодняшнего дня, поэтому готовы рассматривать разные форматы работы — от удаленного до смешанного.</p> <p>Во внутреннем университете 101XP проходят лекции и семинары для сотрудников по всем направлениям работы в игровой индустрии. Преподавателями выступают как сотрудники компании, так и приглашенные эксперты своего дела.</p> <p>Мы следим за самыми современными IT-тенденциями, чтобы максимально быстро реализовывать их на нашей платформе 101XP.com и радовать наших пользователей высочайшим качеством сервиса. Даже новички здесь могут стать экспертами и найти работу своей мечты.</p> <p>В 101XP мы применяем систему менеджмента качества, соответствующую международному стандарту ISO 9001:2015.</p> <p>Работа по стандарту ISO 9001:2015 позволяет обеспечивать прозрачность всех рабочих взаимодействий и процессов и упрощает обучение новых сотрудников, что повышает качество работы и скорость выполнения задач.</p> <p>Гибкий график — это возможность организовать время эффективно, потому что результат для нас — это самое главное.</p> <p>Ведь мы:</p> <ul> <li>Выпускаем игры на лучших платформах</li> <li>Разработали собственную игровую платформу</li> <li>Успешно развиваем существующие проекты</li> <li>Развиваем собственную разработку проектов</li> <li>Непрерывно растем и развиваемся</li> </ul> <p>Если вам интересно работать в самой нескучной и активно развивающейся индустрии, быть на пике новых технологий, учиться новому, все время расти как профессионалу — присоединяйтесь!</p>',
+    'site_url': 'http://corp.101xp.com',
+    'alternate_url': 'https://hh.ru/employer/626544',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=626544',
+    'logo_urls': {
+      '90': 'https://img.hhcdn.ru/employer-logo/1496254.png',
+      '240': 'https://img.hhcdn.ru/employer-logo/1496255.png',
+      'original': 'https://img.hhcdn.ru/employer-logo-original/263431.png'
+    },
+    'relations': [],
+    'area': {
+      'id': '1',
+      'name': 'Москва',
+      'url': 'https://api.hh.ru/areas/1'
+    },
+    'industries': [
+      {
+        'id': '7.541',
+        'name': 'Интернет-компания (поисковики, платежные системы, соц.сети, информационно-познавательные и развлекательные ресурсы, продвижение сайтов и прочее)'
+      }
+    ],
+    'branded_description': None,
+    'branding': None,
+    'insider_interviews': [],
+    'open_vacancies': 7
+  },
+  {
+    'id': '800646',
+    'trusted': True,
+    'accredited_it_employer': True,
+    'name': '101 Интернет',
+    'type': 'company',
+    'description': '<p><strong>101 Интернет — аккредитованная IT-компания, ПО в Реестре Российского ПО.</strong></p> <p>Нам 15 лет, в команде 100+ человек. Развиваем маркетплейс услуг связи: №1 в РФ [101internet.ru] и Индонезии [101internet.id], делаем первые шаги в Индии [101internet.in].</p> <p>Почти 5.000.000 человек выбрали себе услуги связи с нашей помощью. В числе постоянных клиентов МТС, Билайн, Мегафон, Теле2, Ростелеком, Дом.ru.</p> <p>Рынок услуг связи — один из самых стабильно растущих в мире: люди потребляют всё больше и больше трафика каждый год. Это защищает нашу компанию от внешних потрясений и позволяет сохранить теплоту в рабочих отношениях: команда работает с удовольствием, а важнейший канал найма — сарафан. В 2023-м году вошли в <strong>ТОП-20 рейтинга работодателей РФ</strong> по версии hh.ru</p> <p>У нас принято учиться и делиться знаниями на митапах: как внутренних, так и с ребятами из ближнего круга в Yandex, Tinkoff, Ozon и SberMarket.</p> <p>Трепетно подходим к выбору будущих коллег: нам <strong>одинаково важны профессионализм и культурное соответствие</strong>. Будьте готовы динамично пройти ряд испытаний — процесс отлажен и занимает неделю от первого контакта до оффера.</p> <p><strong>Часть прибыли возвращаем миру</strong>, помогая благотворительным фондам растить команды — подробнее об этом на личной страничке нашего основателя levochkin.vc</p> <p><strong>О команде</strong> и рабочих процессах рассказываем на 101internet.ru/career</p> <p><strong>Добро пожаловать!</strong></p>',
+    'site_url': 'http://101internet.ru/career',
+    'alternate_url': 'https://hh.ru/employer/800646',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=800646',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1149902.jpg',
+      '240': 'https://img.hhcdn.ru/employer-logo/6220075.jpeg',
+      '90': 'https://img.hhcdn.ru/employer-logo/6220074.jpeg'
+    },
+    'relations': [],
+    'area': {
+      'id': '1',
+      'name': 'Москва',
+      'url': 'https://api.hh.ru/areas/1'
+    },
+    'industries': [
+      {
+        'id': '7.541',
+        'name': 'Интернет-компания (поисковики, платежные системы, соц.сети, информационно-познавательные и развлекательные ресурсы, продвижение сайтов и прочее)'
+      },
+      {
+        'id': '9.402',
+        'name': 'Спутниковая связь'
+      },
+      {
+        'id': '9.401',
+        'name': 'Оптоволоконная связь'
+      },
+      {
+        'id': '9.400',
+        'name': 'Фиксированная связь'
+      },
+      {
+        'id': '9.399',
+        'name': 'Мобильная связь'
+      }
+    ],
+    'branded_description': None,
+    'branding': None,
+    'insider_interviews': [],
+    'open_vacancies': 21
+  },
+  {
+    'id': '3160848',
+    'trusted': True,
+    'accredited_it_employer': False,
+    'name': '101 ROSE',
+    'type': 'company',
+    'description': '<p>Мы салон цветов 101 ROSE работаем с 2016 года, доставляем цветы по всей Самаре и области. Создаем неповторимые авторские букеты и композиции, которыми каждый день уже на протяжении 7 лет радуем наших получательниц.\xa0Наши социальные сети:</p> <p>ВКонтакте:\xa0https://vk.com/smr_101rose</p>',
+    'site_url': 'http://Elitrose101.ru',
+    'alternate_url': 'https://hh.ru/employer/3160848',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3160848',
+    'logo_urls': {
+      '90': 'https://img.hhcdn.ru/employer-logo/6188197.jpeg',
+      '240': 'https://img.hhcdn.ru/employer-logo/6188198.jpeg',
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1141906.jpeg'
+    },
+    'relations': [],
+    'area': {
+      'id': '78',
+      'name': 'Самара',
+      'url': 'https://api.hh.ru/areas/78'
+    },
+    'industries': [
+      {
+        'id': '41.511',
+        'name': 'Розничная сеть (книги, игрушки, подарки, часы и прочее)'
+      }
+    ],
+    'branded_description': None,
+    'branding': None,
+    'insider_interviews': [],
+    'open_vacancies': 1
+  },
+  {
+    'id': '4246570',
+    'trusted': True,
+    'accredited_it_employer': False,
+    'name': '101 percent',
+    'type': 'company',
+    'description': '<p>Учебный центр начал свою деятельность с 2019 года. Мы предоставляем следующие виды услуг:</p><p>1. Языковые курсы (General English, IELTS, английский для детей)</p><p>2. Курсы по математике (Подготовка в академические лицеи и ВУЗы)</p><p>3. Курс IELTS TURBO (ускоренная подготовка к IELTS с уровня elementary)</p>',
+    'site_url': '',
+    'alternate_url': 'https://hh.ru/employer/4246570',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4246570',
+    'logo_urls': {
+      '90': 'https://img.hhcdn.ru/employer-logo/5617328.jpeg',
+      '240': 'https://img.hhcdn.ru/employer-logo/5617329.jpeg',
+      'original': 'https://img.hhcdn.ru/employer-logo-original/999135.JPG'
+    },
+    'relations': [],
+    'area': {
+      'id': '2759',
+      'name': 'Ташкент',
+      'url': 'https://api.hh.ru/areas/2759'
+    },
+    'industries': [
+      {
+        'id': '39.448',
+        'name': 'Обучение иностранным языкам'
+      }
+    ],
+    'branded_description': None,
+    'branding': None,
+    'insider_interviews': [],
+    'open_vacancies': 2
+  }
+]

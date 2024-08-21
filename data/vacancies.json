@@ -1,0 +1,436 @@
+[
+  {
+    'id': '10252469',
+    'premium': False,
+    'billing_type': {
+      'id': 'standard',
+      'name': 'Стандарт'
+    },
+    'relations': [],
+    'name': 'Руководитель digital-проектов',
+    'insider_interview': None,
+    'response_letter_required': False,
+    'area': {
+      'id': '1',
+      'name': 'Москва',
+      'url': 'https://api.hh.ru/areas/1'
+    },
+    'salary': None,
+    'type': {
+      'id': 'open',
+      'name': 'Открытая'
+    },
+    'address': {
+      'city': 'Москва',
+      'street': 'Большой Овчинниковский переулок',
+      'building': '18с4',
+      'lat': 55.743917,
+      'lng': 37.630104,
+      'description': None,
+      'raw': 'Москва, Большой Овчинниковский переулок, 18с4',
+      'metro': {
+        'station_name': 'Новокузнецкая',
+        'line_name': 'Замоскворецкая',
+        'station_id': '2.89',
+        'line_id': '2',
+        'lat': 55.742391,
+        'lng': 37.62928
+      },
+      'metro_stations': [
+        {
+          'station_name': 'Новокузнецкая',
+          'line_name': 'Замоскворецкая',
+          'station_id': '2.89',
+          'line_id': '2',
+          'lat': 55.742391,
+          'lng': 37.62928
+        }
+      ]
+    },
+    'allow_messages': True,
+    'experience': {
+      'id': 'between3And6',
+      'name': 'От 3 до 6 лет'
+    },
+    'schedule': {
+      'id': 'fullDay',
+      'name': 'Полный день'
+    },
+    'employment': {
+      'id': 'full',
+      'name': 'Полная занятость'
+    },
+    'department': None,
+    'contacts': None,
+    'description': '<p><strong>Обязанности:\xa0</strong></p> <ul> <li>Управление комплексным интернет-проектом, включающим в себя: веб-продакшен, продакшен мобильных приложений, PR сопровождение и продвижение (Соцсети, СМИ, реклама)</li> <li>Формулировка задания и контроль его выполнения техническим специалистам: программистам, дизайнерам, копирайтерам.</li> <li>Наличие кейсов и развитой базы подрядчиков и фрилансеров — веб-продакшен (сайты, мульт. презентации, моб. приложения, игры и пр. приложения для соцсетей) и продвижение (SMM, медийные кампании, PR и др.)</li> <li>Постановка задач внутренним сотрудникам холдинга и продакшенам на аутсорсе, контроль качества и сроков их выполнения.</li> <li>Написание ТЗ, ведение проектной документации (и ее утверждение как внутри, так и с клиентом). Предоставление отчетов.</li> <li>Оперативное решение всех возникающих в ходе проекта вопросов, спорных и конфликтных ситуаций</li> <li>Отслеживание изменений на рынке - знание актуальных трендов, свежих кейсов. Умение оперативно получить и использовать знания как в проектной деятельности, так и в общении с клиентами.</li> </ul> \xa0 <p><strong>Требования:</strong></p> <ul> <li>Опыт взаимодействия с гос. органами (желательно)</li> <li>Опыт работы в сфере онлайн-коммуникаций — более 3 лет на должностях руководителя проектов, менеджера.</li> <li>Наличие успешных комплексных интернет-проектов в портфолио</li> <li><strong>Стрессоустойчивость, умение «ловить на лету» и качественно делать десять дел одновременно.</strong></li> <li>Умение взаимодействовать с разными людьми и работать в команде</li> <li>Стремление к выдающимся результатам</li> <li>Чувство юмора желательно.</li> </ul> \xa0 <p><strong>Условия:</strong></p> <ul> <li>Работа в крупной, успешной компании</li> <li>Оформление по ТК</li> <li>Амбициозные \xa0задачи</li> <li>Место работы\xa0 – м.Новокузнецкая</li> <li>Уровень компенсации на достойном уровне,\xa0 обсуждается индивидуально с успешным кандидатом</li> </ul>',
+    'branded_description': None,
+    'vacancy_constructor_template': None,
+    'key_skills': [],
+    'accept_handicapped': False,
+    'accept_kids': False,
+    'archived': True,
+    'response_url': None,
+    'specializations': [],
+    'professional_roles': [
+      {
+        'id': '107',
+        'name': 'Руководитель проектов'
+      }
+    ],
+    'code': None,
+    'hidden': False,
+    'quick_responses_allowed': False,
+    'driver_license_types': [],
+    'accept_incomplete_resumes': False,
+    'employer': {
+      'id': '12573',
+      'name': 'ГРУППА ИМА',
+      'url': 'https://api.hh.ru/employers/12573',
+      'alternate_url': 'https://hh.ru/employer/12573',
+      'logo_urls': {
+        '90': 'https://img.hhcdn.ru/employer-logo/697052.jpeg',
+        '240': 'https://img.hhcdn.ru/employer-logo/697053.jpeg',
+        'original': 'https://img.hhcdn.ru/employer-logo-original/229363.jpg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=12573',
+      'accredited_it_employer': False,
+      'trusted': True
+    },
+    'published_at': '2014-03-21T12:48:32+0400',
+    'created_at': '2014-03-21T12:48:32+0400',
+    'initial_created_at': '2014-03-21T12:48:32+0400',
+    'negotiations_url': None,
+    'suitable_resumes_url': None,
+    'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=10252469',
+    'has_test': False,
+    'test': None,
+    'alternate_url': 'https://hh.ru/vacancy/10252469',
+    'working_days': [],
+    'working_time_intervals': [],
+    'working_time_modes': [],
+    'accept_temporary': False,
+    'languages': [],
+    'approved': True
+  },
+  {
+    'description': 'Not Found',
+    'errors': [
+      {
+        'type': 'not_found'
+      }
+    ],
+    'request_id': '1724239386908846fdcfb796a66e2c1d'
+  },
+  {
+    'id': '5530913',
+    'premium': False,
+    'billing_type': {
+      'id': 'standard',
+      'name': 'Стандарт'
+    },
+    'relations': [],
+    'name': 'Коммерческий директор',
+    'insider_interview': None,
+    'response_letter_required': False,
+    'area': {
+      'id': '1291',
+      'name': 'Нижний Тагил',
+      'url': 'https://api.hh.ru/areas/1291'
+    },
+    'salary': {
+      'from': 35000,
+      'to': 100000,
+      'currency': 'RUR',
+      'gross': None
+    },
+    'type': {
+      'id': 'open',
+      'name': 'Открытая'
+    },
+    'address': None,
+    'allow_messages': True,
+    'experience': {
+      'id': 'between1And3',
+      'name': 'От 1 года до 3 лет'
+    },
+    'schedule': {
+      'id': 'fullDay',
+      'name': 'Полный день'
+    },
+    'employment': {
+      'id': 'full',
+      'name': 'Полная занятость'
+    },
+    'department': None,
+    'contacts': None,
+    'description': '<p> <span><span>П</span>рофиль деятельности:\xa0\xa0 производство, оптовая <span>\xa0</span>и розничная торговля</span></p><br /><p> <strong>Основные обязанности:\xa0\xa0 </strong></p> <p> <span _fck_bookmark="1" style="display: none;">\xa0</span><span _fck_bookmark="1" style="display: none;">\xa0</span></p><br /><ul> <li> <span>Формирование и обоснование бюджета <span>\xa0</span>и управленческой отчетности </span></li> <li> <span>Работа с контролирующими органами</span></li> <li> <span>Работа по развитию клиентской базы и сети магазинов</span></li> <li> <span>Увеличение объемов продаж на 8-10%%</span></li> <li> <span>Уменьшение дебиторской задолженности </span></li> </ul><br /><p> <b><span>Требования:</span></b><span>\xa0\xa0\xa0 </span></p> <ul> <li> <span>Опыт на соответствующей должности не менее 3 лет, </span></li> <li> <span>Опыт успешного развития предприятия, руководящий опыт. </span></li> <li> <span>Образование желательно в сфере менеджмента или экономики. </span></li> <li> <span>Наличие личного автомобиля , знание 1:С</span></li> <li> <span>Широкий круг связей в деловых кругах.</span></li> </ul><br /><p> <strong>Условия:<br /></strong></p> <ul> <li> <span><span><span>\xa0З</span></span>аработная плата:\xa0\xa0оклад от 35000 рублей <span>\xa0</span>+ %%</span></li> </ul>',
+    'branded_description': None,
+    'vacancy_constructor_template': None,
+    'key_skills': [],
+    'accept_handicapped': False,
+    'accept_kids': False,
+    'archived': True,
+    'response_url': None,
+    'specializations': [],
+    'professional_roles': [
+      {
+        'id': '53',
+        'name': 'Коммерческий директор (CCO)'
+      }
+    ],
+    'code': None,
+    'hidden': False,
+    'quick_responses_allowed': False,
+    'driver_license_types': [],
+    'accept_incomplete_resumes': False,
+    'employer': {
+      'id': '42561',
+      'name': 'Элита, КА, ООО, Нижний Тагил',
+      'url': 'https://api.hh.ru/employers/42561',
+      'alternate_url': 'https://hh.ru/employer/42561',
+      'logo_urls': {
+        '90': 'https://img.hhcdn.ru/employer-logo/318551.jpeg',
+        '240': 'https://img.hhcdn.ru/employer-logo/391408.jpeg',
+        'original': 'https://img.hhcdn.ru/employer-logo-original/223089.jpg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=42561',
+      'accredited_it_employer': False,
+      'trusted': True
+    },
+    'published_at': '2012-02-29T10:58:41+0400',
+    'created_at': '2012-02-29T10:58:41+0400',
+    'initial_created_at': '2012-02-14T14:44:32+0400',
+    'negotiations_url': None,
+    'suitable_resumes_url': None,
+    'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=5530913',
+    'has_test': False,
+    'test': None,
+    'alternate_url': 'https://hh.ru/vacancy/5530913',
+    'working_days': [],
+    'working_time_intervals': [],
+    'working_time_modes': [],
+    'accept_temporary': False,
+    'languages': [],
+    'approved': True
+  },
+  {
+    'description': 'Not Found',
+    'errors': [
+      {
+        'type': 'not_found'
+      }
+    ],
+    'request_id': '17242393871860aa959d043464fc93f5'
+  },
+  {
+    'description': 'Not Found',
+    'errors': [
+      {
+        'type': 'not_found'
+      }
+    ],
+    'request_id': '17242393873209bc37b38f506cc975c6'
+  },
+  {
+    'id': '1437541',
+    'premium': False,
+    'billing_type': {
+      'id': 'standard',
+      'name': 'Стандарт'
+    },
+    'relations': [],
+    'name': 'Руководитель отдела продаж недвижимости',
+    'insider_interview': None,
+    'response_letter_required': False,
+    'area': {
+      'id': '49',
+      'name': 'Киров (Кировская область)',
+      'url': 'https://api.hh.ru/areas/49'
+    },
+    'salary': None,
+    'type': {
+      'id': 'open',
+      'name': 'Открытая'
+    },
+    'address': None,
+    'allow_messages': True,
+    'experience': {
+      'id': 'between3And6',
+      'name': 'От 3 до 6 лет'
+    },
+    'schedule': {
+      'id': 'fullDay',
+      'name': 'Полный день'
+    },
+    'employment': {
+      'id': 'full',
+      'name': 'Полная занятость'
+    },
+    'department': None,
+    'contacts': None,
+    'description': '<p>Проект курортного города на черноморском побережье, в связи с\nначалом строительства приглашает на работу <b>Руководителя отдела\nпродаж недвижимости.<br />\n</b></p>\n\n<p><b>Требования:</b></p>\n\n<ul>\n<li>Возраст: от 27 до 45.</li>\n\n<li>Образование: Высшее.</li>\n\n<li>Опыт работы : в недвижимости более 5 лет.</li>\n\n<li>Занятость: Полная занятость.</li>\n\n<li>Опыт работы по организации продажи недвижимости от 5 лет, опыт\nруководящей работы, управление территориальными офисами\nприветствуется.</li>\n\n<li>Высшее образование.</li>\n</ul>\n\n<p><b>Обязанности:</b></p>\n\n<ul>\n<li>Разработка стратегии продаж; организация, контроль и\nосуществление продаж объектов жилой и коммерческой недвижимости (в\nт.ч. нестандартными методами), а также аренды жилой и коммерческой\nнедвижимости.</li>\n\n<li>Руководство региональными офисами продаж, формирование объекта\nпродаж, в т.ч. числе в области ценообразования.</li>\n</ul>\n\n<p><b>Условия:</b></p>\n\n<ul>\n<li>Заработная плата состоит из оклада + % с продаж.</li>\n\n<li>Проживание на берегу моря, компенсация аренды жилья,\nвозможность получения корпоративного ипотечного кредита на покупку\nжилья, оплата мобильной связи, служебный транспорт, скидки в\nкорпоративных магазинах (от 5% до 40%).</li>\n\n<li>Впервые появилась возможность продавать объекты курортной\nнедвижимости средиземноморского стиля в России, которые сопоставимы\nпо уровню удобства и комфорта с европейскими стандартами.</li>\n\n<li>Новый проект поможет реализовать свои профессиональные\nвозможности и удивить рынок недвижимости многообразием предложений\nкурортного города</li>\n\n<li>Курорт расположен на территории черноморского побережья в\nуникальной климатической зоне и предлагает элитный отдых\nевропейского уровня.</li>\n\n<li>Заработная плата + % от продаж. ( заработная плата\xa0 может\nзависеть от уровня кандидата) .</li>\n\n<li>Компенсация за проживание в соответствии с компенсационным\nпакетом.</li>\n\n<li>Детская комната для детей сотрудников .</li>\n\n<li>Карьерный рост в рамках холдинга &quot;РАМО&quot;.</li>\n\n<li>Скидки в магазинах и предприятиях общественного питания\nкомпании.</li>\n\n<li>Предоставление рекреационных возможностей компании( бассейн,\nпляж, спорт.зал,сауна). Рассматриваются кандидаты из др. городов РФ\nи зарубежья.</li>\n\n<li>Место работы – Туапсинский р-н. (переезд и проживание\nоплачивается).</li>\n</ul>',
+    'branded_description': None,
+    'vacancy_constructor_template': None,
+    'key_skills': [],
+    'accept_handicapped': False,
+    'accept_kids': False,
+    'archived': True,
+    'response_url': None,
+    'specializations': [],
+    'professional_roles': [
+      {
+        'id': '106',
+        'name': 'Руководитель отдела продаж'
+      }
+    ],
+    'code': None,
+    'hidden': False,
+    'quick_responses_allowed': False,
+    'driver_license_types': [],
+    'accept_incomplete_resumes': False,
+    'employer': {
+      'id': '42932',
+      'name': 'KuchenLand',
+      'url': 'https://api.hh.ru/employers/42932',
+      'alternate_url': 'https://hh.ru/employer/42932',
+      'logo_urls': {
+        '90': 'https://img.hhcdn.ru/employer-logo/6752438.png',
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1283035.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/6752439.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=42932',
+      'accredited_it_employer': False,
+      'trusted': True
+    },
+    'published_at': '2008-09-29T10:08:54+0400',
+    'created_at': '2008-09-29T10:08:54+0400',
+    'initial_created_at': '2008-05-27T09:48:26+0400',
+    'negotiations_url': None,
+    'suitable_resumes_url': None,
+    'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=1437541',
+    'has_test': False,
+    'test': None,
+    'alternate_url': 'https://hh.ru/vacancy/1437541',
+    'working_days': [],
+    'working_time_intervals': [],
+    'working_time_modes': [],
+    'accept_temporary': False,
+    'languages': [],
+    'approved': True
+  },
+  {
+    'description': 'Not Found',
+    'errors': [
+      {
+        'type': 'not_found'
+      }
+    ],
+    'request_id': '1724239387637325f846d094766805b0'
+  },
+  {
+    'id': '800646',
+    'premium': False,
+    'billing_type': {
+      'id': 'standard',
+      'name': 'Стандарт'
+    },
+    'relations': [],
+    'name': 'Программист 1C',
+    'insider_interview': None,
+    'response_letter_required': False,
+    'area': {
+      'id': '1',
+      'name': 'Москва',
+      'url': 'https://api.hh.ru/areas/1'
+    },
+    'salary': {
+      'from': 2000,
+      'to': 3000,
+      'currency': 'USD',
+      'gross': None
+    },
+    'type': {
+      'id': 'open',
+      'name': 'Открытая'
+    },
+    'address': None,
+    'allow_messages': True,
+    'experience': {
+      'id': 'between1And3',
+      'name': 'От 1 года до 3 лет'
+    },
+    'schedule': {
+      'id': 'fullDay',
+      'name': 'Полный день'
+    },
+    'employment': {
+      'id': 'full',
+      'name': 'Полная занятость'
+    },
+    'department': None,
+    'contacts': None,
+    'description': '<p><span>ПРОГРАММИСТ 1С<br />\n</span></p>\n\n<p><span><br />\n</span></p>\n\n<p><span>Требования:</span></p>\n\n<ul>\n<li><span>Мужчина/женщина , 21-38 лет,<br />\n</span></li>\n\n<li><span>Высшее образование ,<br />\n</span></li>\n\n<li><span>Гражданство РФ,<br />\n</span></li>\n\n<li><span>Опыт работы от 2-х лет с 1С 7.7.<span>\xa0</span>\n«Торговля+Склад»,<br />\n</span></li>\n\n<li><span>Знание 1С 8.0 приветствуется.<br />\n</span></li>\n</ul>\n\n<span>Обязанности:<br />\n</span> \n\n<ul>\n<li>П<span>рограммирование и внедрение доработок 1С для нужд\nпредприятия,<br />\n</span></li>\n\n<li><span>Администрирование баз 1С,<br />\n</span></li>\n\n<li><span>Поддержка пользователей.<br />\n</span></li>\n</ul>\n\n<span>Условия:<br />\n</span> \n\n<ul>\n<li><span>График : пн-пт, с 9-00 до 18-00, полная\nзанятость</span></li>\n\n<li><span>Заработная плата – от 2000$ по результатам\xa0\nсобеседования<br />\n</span></li>\n\n<li><span>Офис: м. Отрадное</span></li>\n</ul>',
+    'branded_description': None,
+    'vacancy_constructor_template': None,
+    'key_skills': [],
+    'accept_handicapped': False,
+    'accept_kids': False,
+    'archived': True,
+    'response_url': None,
+    'specializations': [],
+    'professional_roles': [
+      {
+        'id': '96',
+        'name': 'Программист, разработчик'
+      }
+    ],
+    'code': None,
+    'hidden': False,
+    'quick_responses_allowed': False,
+    'driver_license_types': [],
+    'accept_incomplete_resumes': False,
+    'employer': {
+      'id': '4583',
+      'name': 'Вайн Стайл',
+      'url': 'https://api.hh.ru/employers/4583',
+      'alternate_url': 'https://hh.ru/employer/4583',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4583',
+      'accredited_it_employer': False,
+      'trusted': True
+    },
+    'published_at': '2007-06-13T17:15:28+0400',
+    'created_at': '2007-06-13T17:15:28+0400',
+    'initial_created_at': '2007-06-13T17:15:28+0400',
+    'negotiations_url': None,
+    'suitable_resumes_url': None,
+    'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=800646',
+    'has_test': False,
+    'test': None,
+    'alternate_url': 'https://hh.ru/vacancy/800646',
+    'working_days': [],
+    'working_time_intervals': [],
+    'working_time_modes': [],
+    'accept_temporary': False,
+    'languages': [],
+    'approved': True
+  },
+  {
+    'description': 'Not Found',
+    'errors': [
+      {
+        'type': 'not_found'
+      }
+    ],
+    'request_id': '17242393880396aa18e28ae5d2da5bbf'
+  },
+  {
+    'description': 'Not Found',
+    'errors': [
+      {
+        'type': 'not_found'
+      }
+    ],
+    'request_id': '1724239388183938c7c4da6cefa97600'
+  }
+]
