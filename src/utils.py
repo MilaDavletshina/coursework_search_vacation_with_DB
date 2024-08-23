@@ -12,13 +12,13 @@ def get_hh_data(employer_ids: List[str]) -> List[Dict[str, Any]]:
     employers = []
 
     for employer_id in employer_ids:
-        api_url = f"https://api.hh.ru/vacancies/{employer_id}"
-
         # получаем данные о компании
-        employer_info = requests.get(api_url, ).json()
-        employers.append(employer_info['employer'])
+        api_url_emp = f"https://api.hh.ru/employers/{employer_id}"
+        employer_info = requests.get(api_url_emp, ).json()
+        employers.append(employer_info)
 
         # получаем данные о вакансии
+        api_url = f"https://api.hh.ru/vacancies/{employer_id}"
         vacancies_info = requests.get(api_url, params=params).json()
         vacancies.append(vacancies_info)
 
@@ -44,7 +44,7 @@ def create_database(database_name: str, params: dict):
     conn = psycopg2.connect(dbname=database_name, **params)
 
     with conn.cursor() as cur:
-        cur.execute("""CREATE TABLE employers (employer_id SERIAL PRIMARY KEY, name VARCHAR(255) NOT NULL, vacancies_url TEXT, trusted TEXT)""")
+        cur.execute("""CREATE TABLE employers (employer_id SERIAL PRIMARY KEY, name VARCHAR(255) NOT NULL, area VARCHAR (255) NOT NULL, vacancies_url TEXT, trusted TEXT, open_vacancies INT)""")
 
     with conn.cursor() as cur:
         cur.execute("""
@@ -52,7 +52,6 @@ def create_database(database_name: str, params: dict):
                 vacancy_id SERIAL PRIMARY KEY,
                 employer_id INT REFERENCES employers(employer_id),
                 name VARCHAR NOT NULL,
-                area VARCHAR (255) NOT NULL,
                 salary_from TEXT,
                 experience TEXT,
                 schedule TEXT
@@ -64,7 +63,7 @@ def create_database(database_name: str, params: dict):
 
 
 def save_data_to_database(data: list[dict[str, Any]], database_name: str, params: dict) -> None:
-    """Сохранение данных о работодателе в базу данных."""
+    """Сохранение данных в базу данных."""
 
     conn = psycopg2.connect(dbname=database_name, **params)
 
@@ -74,11 +73,11 @@ def save_data_to_database(data: list[dict[str, Any]], database_name: str, params
             for emp in employers_data:
                 cur.execute(
                     """
-                    INSERT INTO employers (name, vacancies_url, trusted)
-                    VALUES (%s, %s, %s)
+                    INSERT INTO employers (name, area, vacancies_url, trusted, open_vacancies)
+                    VALUES (%s, %s, %s, %s, %s)
                     RETURNING employer_id
                     """,
-                    (emp['name'], emp['vacancies_url'], emp['trusted'])
+                    (emp['name'], emp['area']['name'], emp['vacancies_url'], emp['trusted'], emp['open_vacancies'])
                 )
             employer_id = cur.fetchone()[0]
             vacancies_data = i['vacancies']
@@ -86,19 +85,19 @@ def save_data_to_database(data: list[dict[str, Any]], database_name: str, params
                 if vac['salary'] is None:
                     cur.execute(
                         """
-                        INSERT INTO vacancies (employer_id, name, area, salary_from, experience, schedule)
-                        VALUES (%s, %s, %s, %s, %s, %s)
+                        INSERT INTO vacancies (employer_id, name, salary_from, experience, schedule)
+                        VALUES (%s, %s, %s, %s, %s)
                         """,
-                        (employer_id, vac['name'], vac['area']['name'], 0,
+                        (employer_id, vac['name'], 0,
                          vac['experience']['name'], vac['schedule']['name'])
                     )
                 else:
                     cur.execute(
                         """
-                        INSERT INTO vacancies (employer_id, name, area, salary_from, experience, schedule)
-                        VALUES (%s, %s, %s, %s, %s, %s)
+                        INSERT INTO vacancies (employer_id, name, salary_from, experience, schedule)
+                        VALUES (%s, %s, %s, %s, %s)
                         """,
-                        (employer_id, vac['name'], vac['area']['name'], vac['salary']['from'],
+                        (employer_id, vac['name'], vac['salary']['from'],
                          vac['experience']['name'], vac['schedule']['name'])
                     )
     conn.commit()
