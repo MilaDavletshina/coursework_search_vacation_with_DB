@@ -112,6 +112,3 @@
 #                         )
 #     conn.commit()
 #     conn.close()
-
-
-
